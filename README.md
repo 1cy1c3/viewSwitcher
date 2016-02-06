@@ -1,4 +1,4 @@
-viewSwitcher
+View Switcher
 =================
 
 ## Description
